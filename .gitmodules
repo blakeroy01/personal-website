@@ -1,0 +1,6 @@
+[submodule "themes/uBlogger"]
+	path = themes/uBlogger
+	url = https://github.com/upagge/uBlogger.git
+[submodule "blakeroy.com/themes/uBlogger"]
+	path = blakeroy.com/themes/uBlogger
+	url = https://github.com/upagge/uBlogger.git
