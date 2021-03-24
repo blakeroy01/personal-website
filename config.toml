@@ -3,10 +3,10 @@ baseURL = "http://blakeroy.com"
 defaultContentLanguage = "en"
 # language code
 languageCode = "en"
-title = "My New Hugo Site"
+title = "Blake Roy"
 
 # Change the default theme to be use when building the site with Hugo
-theme = "uBlogger"
+theme = "Blogger"
 
 [params]
   # uBlogger theme version
@@ -47,3 +47,4 @@ theme = "uBlogger"
   [markup.highlight]
     # false is a necessary configuration
     noClasses = false
+theme = "Blogger"

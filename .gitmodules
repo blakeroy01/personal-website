@@ -4,3 +4,6 @@
 [submodule "blakeroy.com/themes/uBlogger"]
 	path = blakeroy.com/themes/uBlogger
 	url = https://github.com/upagge/uBlogger.git
+[submodule "themes/Blogger"]
+	path = themes/Blogger
+	url = https://github.com/upagge/uBlogger.git
