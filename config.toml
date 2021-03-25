@@ -6,7 +6,7 @@ languageCode = "en"
 title = "Blake Roy"
 
 # Change the default theme to be use when building the site with Hugo
-theme = "Blogger"
+theme = "uBlogger"
 
 [params]
   # uBlogger theme version
@@ -45,9 +45,9 @@ theme = "Blogger"
 
   # Social config about the author
   [params.social]
-    GitHub = "https://github.com/blakeroy01"
-    Linkedin = "https://www.linkedin.com/in/blake-roy-255400149/"
-    Instagram = "https://www.instagram.com/royyblake/"
+    GitHub = "blakeroy01"
+    Linkedin = "blake-roy-255400149/"
+    Instagram = "royyblake/"
 
 [menu]
   [[menu.main]]
